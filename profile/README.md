@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ion-vortex/engine/refs/heads/main/docs/assets/ion-vortex-banner.svg" width="150" alt="Ion Vortex logo" />
+  <img src="https://raw.githubusercontent.com/ion-vortex/engine/refs/heads/main/docs/assets/ion-vortex-banner.svg" width="800" alt="Ion Vortex logo" />
 </p>
 
 # Ion Vortex
