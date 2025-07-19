@@ -11,7 +11,7 @@ This organization maintains the Ion Vortex engine and related projects including
 - ⚙️ [Engine Repository](https://github.com/ion-vortex/engine) – The core C++ engine (AGPLv3)
 - 🛰️ [Demo Game](https://stellarconflicts.com/) *(Coming Soon)*
 - 📚 [Documentation](https://ionvortex.com/docs) *(Planned)*
-- 💬 [Community Discord](https://discord.gg/ePmavAE) *(Invite your old crew!)*
+- 💬 [Community Discord](https://discord.gg/ePmavAE) *(Get the old squad back together!)*
 - 🌐 [Website](https://ionvortex.com)
 
 ---
